@@ -1,4 +1,13 @@
-# My First Hacktoberfest!
+---
+title: "My First Hacktoberfest!"
+datePublished: Sun Oct 23 2022 16:01:04 GMT+0000 (Coordinated Universal Time)
+cuid: cl9ljeh2d000609mleyzsfzrd
+slug: my-first-hacktoberfest
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686465849691/0c6c1f80-5068-4b95-8930-d963243ebcee.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1666540838638/KV_fwnNZE.jfif
+tags: opensource, hacktoberfest-1, blogswithcc
+
+---
 
 ### This article contains my experiences from my first Hacktoberfest.
 ### 🌐 Take a look at my journey in the hacktoberfest2022!
