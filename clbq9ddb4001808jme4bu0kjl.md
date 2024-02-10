@@ -1,4 +1,13 @@
-# Static and Relative Positioning in CSS
+---
+title: "Static and Relative Positioning in CSS"
+datePublished: Fri Dec 16 2022 08:38:32 GMT+0000 (Coordinated Universal Time)
+cuid: clbq9ddb4001808jme4bu0kjl
+slug: static-and-relative-positioning-in-css
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707580745892/2e1ebba6-b35a-475b-97fc-e17bf2e5496f.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1671179853694/3DVKXnBqM.jpg
+tags: position-relative, position-property, position-property-in-css, wemakedevs, static-position
+
+---
 
 ### 🌐 In this article, we will understand how static & relative positioning works in CSS.
 
