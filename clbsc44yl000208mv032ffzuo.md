@@ -1,4 +1,13 @@
-# Absolute Positioning in CSS
+---
+title: "Absolute Positioning in CSS"
+datePublished: Sat Dec 17 2022 19:30:53 GMT+0000 (Coordinated Universal Time)
+cuid: clbsc44yl000208mv032ffzuo
+slug: absolute-positioning-in-css
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707580902811/730ca494-c657-4ce5-b6df-dcf3b8f0e5fa.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1671304677189/fMS4cQ1E5.jpg
+tags: css, position-absolute, position-property, position-property-in-css, wemakedevs
+
+---
 
 ### 🌐 In this article, we will understand how absolute positioning works in CSS.
 
